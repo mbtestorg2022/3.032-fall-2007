@@ -6,42 +6,465 @@ uid: e6ba1750-995a-aef5-5a8f-dddf695049e2
 
 This page contains slides handed out to accompany the in-class lectures.
 
-| SES # | Topics | Lecture Notes |
-| --- | --- | --- |
-| 1 | Introduction | ([PDF]({{< baseurl >}}/resources/lec1)) |
-| 2 | Force distributions | ([PDF]({{< baseurl >}}/resources/lec2)) |
-| 3 | Deformation under force | ([PDF]({{< baseurl >}}/resources/lec3)) |
-| 4 | Stress distributions in materials | &nbsp; |
-| 5 | Strain and stress | ([PDF]({{< baseurl >}}/resources/lec5)) |
-| 6 | Pressure vessels | &nbsp; |
-| 7 | Stress transformations | ([PDF]({{< baseurl >}}/resources/lec7)) |
-| 8 | Stress transformations: 2D - 3D | &nbsp; |
-| 9 | Stress transformations: 3D | &nbsp; |
-| 10 | Elasticity | &nbsp; |
-| 11 | Continuum linear elasticity | &nbsp; |
-| 12 | Linear elasticity | &nbsp; |
-| 13 | Linear elasticity (cont.) | ([PDF]({{< baseurl >}}/resources/lec13)) |
-| 14 | Superelasticity | ([PDF]({{< baseurl >}}/resources/lec14)) |
-| 15 | Nonlinear elasticity | &nbsp; |
-| 16 | Viscoelasticity | &nbsp; |
-| 17 | Rubber elasticity | ([PDF]({{< baseurl >}}/resources/lec17)) |
-| 18 | Continuum plasticity | &nbsp; |
-| 19 | Plasticity in crystals | &nbsp; |
-| 20 | Plasticity in crystals (cont.) | ([PDF]({{< baseurl >}}/resources/lec20)) |
-| 21 | Plasticity in amorphous materials | ([PDF]({{< baseurl >}}/resources/lec21)) |
-| 22 | Controlling plasticity onset | &nbsp; |
-| 23 | Controlling plasticity onset (cont.) | &nbsp; |
-| 24 | Plasticity at surfaces | ([PDF]({{< baseurl >}}/resources/lec24)) |
-| 25 | EGs of engineering elastoplastic deformation mechanisms | &nbsp; |
-| 26 | Time-dependent plasticity | &nbsp; |
-| 27 | Time-dependent plasticity (cont.) | ([PDF]({{< baseurl >}}/resources/lec27)) |
-| 28 | Creep deformation mechanisms | &nbsp; |
-| 29 | Designing against creep | &nbsp; |
-| 30 | Continuum fracture | &nbsp; |
-| 31 | Continuum fracture (cont.) | &nbsp; |
-| 32 | Fracture in crystals | ([PDF]({{< baseurl >}}/resources/lec32)) |
-| 33 | Fracture in crystals (cont.) | &nbsp; |
-| 34 | Fracture in amorphous materials | &nbsp; |
-| 35 | Fatigue | ([PDF]({{< baseurl >}}/resources/lec35)) |
-| 36 | Fatigue (cont.) | ([PDF]({{< baseurl >}}/resources/lec36)) |
-| 37 | Fatigue (cont.) | ([PDF]({{< baseurl >}}/resources/lec37))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Lecture Notes
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Force distributions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Deformation under force
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Stress distributions in materials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Strain and stress
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Pressure vessels
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Stress transformations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Stress transformations: 2D - 3D
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Stress transformations: 3D
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum linear elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Linear elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Linear elasticity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Superelasticity
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Viscoelasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Rubber elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec17))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum plasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity in crystals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity in crystals (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec20))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity in amorphous materials
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec21))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Controlling plasticity onset
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Controlling plasticity onset (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity at surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec24))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+EGs of engineering elastoplastic deformation mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Time-dependent plasticity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Time-dependent plasticity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec27))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Creep deformation mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Designing against creep
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum fracture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum fracture (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture in crystals
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec32))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture in crystals (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture in amorphous materials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Fatigue
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec35))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Fatigue (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec36))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Fatigue (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lec37))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

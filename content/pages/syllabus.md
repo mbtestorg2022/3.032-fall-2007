@@ -45,11 +45,48 @@ Recommended Supplementary\*: Hosford, W. F. _Mechanical Behavior of Materials_. 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three quizzes (15% each) | 45% |
-| Seven problem sets | 25% |
-| Four labs | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three quizzes (15% each)
+{{< tdclose >}}
+{{< tdopen >}}
+45%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Seven problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four labs
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Academic Honesty
 ----------------

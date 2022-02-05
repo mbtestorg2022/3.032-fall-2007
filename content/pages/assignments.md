@@ -9,25 +9,163 @@ This page presents the problem sets and solutions for the Fall '07 version of 3.
 Fall 2007
 ---------
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| Problem set 1 ([PDF]({{< baseurl >}}/resources/ps1_07)) | ([PDF]({{< baseurl >}}/resources/sol1_07)) |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/ps2_07)) | ([PDF]({{< baseurl >}}/resources/sol2_07)) |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/ps3_07)) | ([PDF]({{< baseurl >}}/resources/sol3_07)) |
-| Problem set 4 ([PDF]({{< baseurl >}}/resources/ps4_07)) | ([PDF]({{< baseurl >}}/resources/sol4_07)) |
-| Problem set 5 ([PDF]({{< baseurl >}}/resources/ps5_07)) | ([PDF]({{< baseurl >}}/resources/sol5_07)) |
-| Problem set 6 ([PDF]({{< baseurl >}}/resources/ps6_07)) | ([PDF]({{< baseurl >}}/resources/sol6_07)) |
-| Problem set 7 ([PDF]({{< baseurl >}}/resources/ps7_07)) | ([PDF]({{< baseurl >}}/resources/sol7_07)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/ps1_07))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol1_07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/ps2_07))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol2_07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/ps3_07))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol3_07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4 ([PDF]({{< baseurl >}}/resources/ps4_07))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol4_07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 5 ([PDF]({{< baseurl >}}/resources/ps5_07))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol5_07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 6 ([PDF]({{< baseurl >}}/resources/ps6_07))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol6_07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 7 ([PDF]({{< baseurl >}}/resources/ps7_07))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol7_07))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Fall 2006
 ---------
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| Problem set 1 ([PDF]({{< baseurl >}}/resources/ps1_06)) | ([PDF]({{< baseurl >}}/resources/sol1_06)) |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/ps2_06)) | ([PDF]({{< baseurl >}}/resources/sol2_06)) |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/ps3_06)) | ([PDF]({{< baseurl >}}/resources/sol3_06)) |
-| Problem set 4 ([PDF]({{< baseurl >}}/resources/ps4_06)) | ([PDF]({{< baseurl >}}/resources/sol4_06)) |
-| Problem set 5 | ([PDF]({{< baseurl >}}/resources/sol5_06)) |
-| Problem set 6 | ([PDF]({{< baseurl >}}/resources/sol6_06)) |
-| Problem set 7 ([PDF]({{< baseurl >}}/resources/ps7_06)) | ([PDF]({{< baseurl >}}/resources/sol7_06))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/ps1_06))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol1_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/ps2_06))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol2_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/ps3_06))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol3_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4 ([PDF]({{< baseurl >}}/resources/ps4_06))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol4_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 5
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol5_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 6
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol6_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 7 ([PDF]({{< baseurl >}}/resources/ps7_06))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sol7_06))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

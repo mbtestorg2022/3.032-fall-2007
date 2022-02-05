@@ -25,45 +25,519 @@ Callister, W. D. _Fundamentals of Materials Science and Engineering_. 2nd ed. Ne
 
 Beer, F. P., and E. R. Johnson. _Mechanics of Materials_. New York, NY: McGraw-Hill, 1981. ISBN: 9780070042841.
 
-| SES # | Topics | Readings |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Force distributions |  {{< br >}}{{< br >}} Hibbeler, pp. 10-15 {{< br >}}{{< br >}} Bedford & Liechti, pp. 1-21, Appendix D {{< br >}}{{< br >}}  |
-| 3 | Deformation under force | Bedford & Liechti, pp. 439-447, Appendix E |
-| 4 | Stress distributions in materials | Beer & Johnston, pp. 271-301 |
-| 5 | Strain and stress | Bedford & Liechti, pp. 69-77, 250-254 |
-| 6 | Pressure vessels | Bedford & Liechti, pp. 221-227 |
-| 7 | Stress transformations | Bedford & Liechti, pp. 187-220 |
-| 8 | Stress transformations: 2D - 3D |
-| 9 | Stress transformations: 3D | &nbsp; |
-| 10 | Elasticity | Nye, pp. 3-49 |
-| 11 | Continuum linear elasticity |  {{< br >}}{{< br >}} Ashby & Jones, pp. 27-35 {{< br >}}{{< br >}} Meyers & Chawla, pp. 78-84 {{< br >}}{{< br >}}  |
-| 12 | Linear elasticity | Meyers & Chawla, pp. 78-84 |
-| &nbsp; | Quiz 1 | &nbsp; |
-| 13 | Linear elasticity (cont.) | Ashby & Jones, pp. 36-44, 58-60 |
-| 14 | Superelasticity | Hosford, pp. 372-375 |
-| 15 | Nonlinear elasticity | Hosford, pp. 182-185 |
-| 16 | Viscoelasticity | Hosford, pp. 247-251 |
-| 17 | Rubber elasticity | Meyers & Chawla, pp. 102-107 |
-| 18 | Continuum plasticity | Hosford, pp. 80-93 |
-| 19 | Plasticity in crystals |  {{< br >}}{{< br >}} Callister, pp. 238-243 {{< br >}}{{< br >}} Meyers & Chawla, pp. 206-207 {{< br >}}{{< br >}}  |
-| 20 | Plasticity in crystals (cont.) | Hosford, pp. 139-147, 158-166 |
-| 21 | Plasticity in amorphous materials | Meyers & Chawla, pp. 420-425 |
-| 22 | Controlling plasticity onset |  {{< br >}}{{< br >}} Hosford, pp. 188-202 {{< br >}}{{< br >}} Callister, pp. 250-256 {{< br >}}{{< br >}}  |
-| 23 | Controlling plasticity onset (cont.) | Callister, pp. 455-460 |
-| 24 | Plasticity at surfaces | Hosford, pp. 62-67, 39-49 |
-| 25 | EGs of engineering elastoplastic deformation mechanisms | &nbsp; |
-| &nbsp; | Quiz 2 | &nbsp; |
-| 26 | Time-dependent plasticity | Meyers & Chawla, pp. 541-546 |
-| 27 | Time-dependent plasticity (cont.) | &nbsp; |
-| 28 | Creep deformation mechanisms | Meyers & Chawla, pp. 553-570 |
-| 29 | Designing against creep | &nbsp; |
-| 30 | Continuum fracture | Hosford, pp. 227-233, 240-241 |
-| 31 | Continuum fracture (cont.) | &nbsp; |
-| 32 | Fracture in crystals | Meyers & Chawla, pp. 381-384, 400-412 |
-| 33 | Fracture in crystals (cont.) | &nbsp; |
-| 34 | Fracture in amorphous materials | &nbsp; |
-| 35 | Fatigue | Meyers & Chawla, pp. 592-596, 602-615 |
-| 36 | Fatigue (cont.) |
-| 37 | Fatigue (cont.) | &nbsp; |
-| &nbsp; | Final exam (quiz 3) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Force distributions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hibbeler, pp. 10-15
+
+Bedford & Liechti, pp. 1-21, Appendix D
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Deformation under force
+{{< tdclose >}}
+{{< tdopen >}}
+Bedford & Liechti, pp. 439-447, Appendix E
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Stress distributions in materials
+{{< tdclose >}}
+{{< tdopen >}}
+Beer & Johnston, pp. 271-301
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Strain and stress
+{{< tdclose >}}
+{{< tdopen >}}
+Bedford & Liechti, pp. 69-77, 250-254
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Pressure vessels
+{{< tdclose >}}
+{{< tdopen >}}
+Bedford & Liechti, pp. 221-227
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Stress transformations
+{{< tdclose >}}
+{{< tdopen >}}
+Bedford & Liechti, pp. 187-220
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Stress transformations: 2D - 3D
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Stress transformations: 3D
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Nye, pp. 3-49
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum linear elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Ashby & Jones, pp. 27-35
+
+Meyers & Chawla, pp. 78-84
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Linear elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Meyers & Chawla, pp. 78-84
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Linear elasticity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ashby & Jones, pp. 36-44, 58-60
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Superelasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Hosford, pp. 372-375
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Hosford, pp. 182-185
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Viscoelasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Hosford, pp. 247-251
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Rubber elasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Meyers & Chawla, pp. 102-107
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum plasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Hosford, pp. 80-93
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity in crystals
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Callister, pp. 238-243
+
+Meyers & Chawla, pp. 206-207
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity in crystals (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Hosford, pp. 139-147, 158-166
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity in amorphous materials
+{{< tdclose >}}
+{{< tdopen >}}
+Meyers & Chawla, pp. 420-425
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Controlling plasticity onset
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hosford, pp. 188-202
+
+Callister, pp. 250-256
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Controlling plasticity onset (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Callister, pp. 455-460
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity at surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+Hosford, pp. 62-67, 39-49
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+EGs of engineering elastoplastic deformation mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Time-dependent plasticity
+{{< tdclose >}}
+{{< tdopen >}}
+Meyers & Chawla, pp. 541-546
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Time-dependent plasticity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Creep deformation mechanisms
+{{< tdclose >}}
+{{< tdopen >}}
+Meyers & Chawla, pp. 553-570
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Designing against creep
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum fracture
+{{< tdclose >}}
+{{< tdopen >}}
+Hosford, pp. 227-233, 240-241
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Continuum fracture (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture in crystals
+{{< tdclose >}}
+{{< tdopen >}}
+Meyers & Chawla, pp. 381-384, 400-412
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture in crystals (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Fracture in amorphous materials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Fatigue
+{{< tdclose >}}
+{{< tdopen >}}
+Meyers & Chawla, pp. 592-596, 602-615
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Fatigue (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Fatigue (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam (quiz 3)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
